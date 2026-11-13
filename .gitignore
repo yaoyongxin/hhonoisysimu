@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+runs/
+slurm-*.out
+scan_noise*.json
+*.log
